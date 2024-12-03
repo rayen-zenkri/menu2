@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Delicious Burger",
+    "image": "burger.jpg",
+    "price": "$12.99",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Veggie Pizza",
+    "image": "veggie_pizza.jpg",
+    "price": "$14.49",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Tasty Food 3",
+    "image": "h2.webp",
+    "price": "$18.99",
+    "rating": 5.0
+  },
+  {
+    "id": 4,
+    "name": "Chicken Wrap",
+    "image": "chicken_wrap.jpg",
+    "price": "$10.99",
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "name": "Spaghetti Bolognese",
+    "image": "spaghetti.jpg",
+    "price": "$16.99",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "Grilled Salmon",
+    "image": "grilled_salmon.jpg",
+    "price": "$22.49",
+    "rating": 4.8
+  },
+  {
+    "id": 7,
+    "name": "Cheese Sandwich",
+    "image": "cheese_sandwich.jpg",
+    "price": "$8.99",
+    "rating": 3.9
+  },
+  {
+    "id": 8,
+    "name": "Pasta Primavera",
+    "image": "pasta_primavera.jpg",
+    "price": "$13.49",
+    "rating": 4.3
+  },
+  {
+    "id": 9,
+    "name": "Steak and Fries",
+    "image": "steak_fries.jpg",
+    "price": "$25.99",
+    "rating": 4.9
+  },
+  {
+    "id": 10,
+    "name": "Fruit Salad",
+    "image": "fruit_salad.jpg",
+    "price": "$7.49",
+    "rating": 4.1
+  }
+]
